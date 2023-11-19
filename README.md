@@ -1,5 +1,5 @@
 # flutter_calculadora
-
+- [Fonte de estudo: Flutterando](https://www.youtube.com/watch?v=y-jmO85Kkis)
 A new Flutter project.
 
 ## Getting Started
